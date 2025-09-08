@@ -1,0 +1,134 @@
+/* body{
+    background-color: pink;
+}
+h1{
+    color: blue;
+    background-color: yellow;
+    text-decoration: double;
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: 200;
+}
+h4{
+    color: rgb(43, 192, 226);
+    background-color: brown;
+    text-decoration: wavy;
+    text-align: center;
+    font-weight: 100;
+
+}
+button{
+    background-color: blanchedalmond;
+} */
+ /* .box{
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+    text-align: center;
+    margin: 5px;
+    background-color: aqua;
+ } */
+ /* #box{
+    height: 250px;
+    width: 100px;
+    border: 2px solid black;
+    text-align: center;
+    margin: 5px;
+    background-color: aqua;
+ } */
+/* .content{
+    color: red;
+}
+.newClass{
+    background-color: green;
+} */
+ /* div{
+    background-color: dodgerblue;
+    height: 100px;
+    width: 100px;
+    color: white;
+    text-align: center;
+    border: 2px solid black;
+ } */
+/* .dark{
+    background-color: black;
+    color: white;
+}
+.light{
+    background-color: white;
+    color: black;
+} */
+*{
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+}
+h1{
+    background-color: #081b31;
+    color: #fff;
+    height: 5rem;
+    line-height: 5rem;
+}
+.choice{
+    height: 165px;
+    width: 165px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.choice:hover{
+    cursor: pointer;
+    background-color: #081b31;
+}
+img{
+    height: 150px;
+    width: 150px;
+    object-fit: cover;
+    border-radius: 50%;
+}
+.choices{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 3rem;
+    margin-top: 5rem;
+}
+.scoreboard{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2rem;
+    margin-top: 3rem;
+    gap: 5rem;
+}
+#user-score, 
+#comp-score{
+    font-size: 4rem;
+}
+.msg-container{
+    margin-top: 5rem;
+}
+#msg{
+    background-color: #081b31;
+    color: #fff;
+    font-size: 2rem;
+    display: inline;
+    padding: 1rem;
+    border-radius: 1rem;
+}
+.footer{
+    margin-top: 7rem;
+    background-color: #081b31;
+    color: #fff;
+    height: 5rem;
+    line-height: 5rem;
+    font-size: 3rem;
+}
+#sign{
+    font-weight: 200rem;
+
+}
+body{
+    background-color: blanchedalmond;
+}
